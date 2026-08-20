@@ -1,4 +1,4 @@
-# counter_using_clock_divider-
+# Counter_using_clock_divider-
 # EXPERIMENT – 3.B 4- bit Up/Down Counter and MOD-10 Counter using Clock Divider in FPGA
 
 # Aim
